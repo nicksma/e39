@@ -7,9 +7,9 @@ Robots: noindex,nofollow
 Template: index
 ---
 
-## BMW 530i (e39) 5/D
+## Verkauf: BMW 530i (e39) 5/D
 
-<img src="./assets/images/DSC05452.JPG" class="img-responsive" alt="aussen vorne rechts">
+![aussen vorne rechts](./assets/images/DSC05452.JPG)
 
 - [Technische Daten](./data/specs)
 - [Bilder](./data/images)

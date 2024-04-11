@@ -72,31 +72,31 @@ Teilekatalog:
 
 [zurück](../)
 
-Datum | Material | Beschreibung
-:-- | --: | :--
-2024-02 | 156 EUR | Kühlsystem Motorkühler und Ausgleichbehälter neu
+Datum   | Material | Beschreibung
+:--     | --:      | :--
+2024-02 |  156 EUR | Kühlsystem Motorkühler und Ausgleichbehälter neu
 2023-09 | 1785 EUR | Rostbehandlung (Schweller, Radkästen, Tankdeckel, Heckklappe)
-2023-09 | 134 EUR | Motorkühler neu
-2022-11 | 89 EUR | Inspektion (Luftfilter, Kraftstofffilter)
-2022-11 | 55 EUR | Inspektion (Ölfilter, Innenraumfilter )
-2022-09 | 187 EUR | Querlenker, Verbindungsstange
-2022-09 | 282 EUR | Stoßdämpfer neu
-2022-09 | 137 EUR | Bremsscheiben hinten neu
-2022-09 | 183 EUR | Zylinderkopfdichtung, Kurbelgehäuseentlüftung
-2022-09 | 57 EUR | Zündkerzen
-2020-07 | 100 EUR | Akku-Exide-PremiumEA1000| 
-2019-08 | 40 EUR | Inspektion (Luftfilter, Kraftstofffilter)
-2019-08 | 46 EUR | Kabelsatz Kofferraum
-2019-08 | 66 EUR | Klimakondensator
-2019-08 | 14 EUR | Nummernschildbeleuchtung
-2019-08 | 20 EUR | Trag und Führungsgelenk
-2018-06 | 310 EUR | Bremsscheiben und Klötze vorne
-2018-06 | 54 EUR | Querlenker
-2017-08 | 116 EUR | Bremssattel vorne
-2017-08 | 96 EUR | Luftfilter, Zündkerzen
-| | ... uvm.
-2014-08 | 500 EUR | Scheinwerfer
-| | ... uvm.
+2023-09 |  134 EUR | Motorkühler neu
+2022-11 |   89 EUR | Inspektion (Luftfilter, Kraftstofffilter)
+2022-11 |   55 EUR | Inspektion (Ölfilter, Innenraumfilter )
+2022-09 |  187 EUR | Querlenker, Verbindungsstange
+2022-09 |  282 EUR | Stoßdämpfer neu
+2022-09 |  137 EUR | Bremsscheiben hinten neu
+2022-09 |  183 EUR | Zylinderkopfdichtung, Kurbelgehäuseentlüftung
+2022-09 |   57 EUR | Zündkerzen
+2020-07 |  100 EUR | Akku-Exide-PremiumEA1000
+2019-08 |   40 EUR | Inspektion (Luftfilter, Kraftstofffilter)
+2019-08 |   46 EUR | Kabelsatz Kofferraum
+2019-08 |   66 EUR | Klimakondensator
+2019-08 |   14 EUR | Nummernschildbeleuchtung
+2019-08 |   20 EUR | Trag und Führungsgelenk
+2018-06 |  310 EUR | Bremsscheiben und Klötze vorne
+2018-06 |   54 EUR | Querlenker
+2017-08 |  116 EUR | Bremssattel vorne
+2017-08 |   96 EUR | Luftfilter, Zündkerzen
+...     |          | ... uvm.
+2014-08 |  500 EUR | Scheinwerfer
+...     |          | ... uvm.
 
 ## Mängelliste
 
