@@ -75,12 +75,23 @@ Robots: noindex,nofollow
 ![Motor lings vorne](../assets/images/IMG_2217.jpeg)
 ![Motor links](../assets/images/IMG_2218.jpeg)
 
-## Reifen/Felgen
+## Reifen/Felgen: Hersteller Dezent
 
 [zurück](../)
 
 ![Reifendruckplakette](../assets/images/IMG_2212.jpeg)
-![Reifen hingen links](../assets/images/IMG_2240.jpeg)
-![Reifen hingen rechts](../assets/images/IMG_2241.jpeg)
-![Reifen vorne rechts](../assets/images/IMG_2242.jpeg)
-![Reifen vorne links](../assets/images/IMG_2243.jpeg)
+![Reifen Dezent 4x](../assets/images/IMG_2240_43.jpg)
+![Reifen Dezent hinten links](../assets/images/IMG_2240.jpeg)
+![Reifen Dezent hingen rechts](../assets/images/IMG_2241.jpeg)
+![Reifen Dezent vorne rechts](../assets/images/IMG_2242.jpeg)
+![Reifen Dezent vorne links](../assets/images/IMG_2243.jpeg)
+
+## Reifen/Felgen: Hersteller Rondell
+
+[zurück](../)
+
+![Reifen Rondell 4x](../assets/images/IMG_2309.jpg)
+![Reifen Rondell hinten links](../assets/images/IMG_2310.jpg)
+![Reifen Rondell hingen rechts](../assets/images/IMG_2311.jpg)
+![Reifen Rondell vorne links](../assets/images/IMG_2312.jpg)
+![Reifen Rondell vorne rechts](../assets/images/IMG_2313.jpg)

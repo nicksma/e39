@@ -17,13 +17,16 @@ Modell: 530i
 Typ: DT51 e39  
 HSN: 0005  
 TSN: 694  
-Erstzulassung: 27.10.2000
+Erstzulassung: 27.10.2000  
+[Bilder](./images.md#auen)
 
 Motor: [M54B30](https://de.wikipedia.org/wiki/BMW_M54)  
 Reihensechszylinder mit autom. Nockenwellenverstellung  
-Huberaum: 3,0 l (2979 cm3)  
+Hubraum: 3,0 l (2979 cm3)  
 Leistung: 170 kW (231 PS)  
-Drehmoment: 300 Nm
+Drehmoment: 300 Nm  
+Kilometerstand: 274.100 km  
+[Bilder](./images.md#motor)
 
 * 317 Orientblau Metallic
 * F4AT Stoff rips diagonal/anthrazit
@@ -53,6 +56,8 @@ Drehmoment: 300 Nm
 * Reife (4x)
   * 225/55R16 95 H (NEU)
 
+[Bilder](./images.md#reifenfelgen-hersteller-dezent)
+
 ### Sommerreifen
 
 * Felgen (4x)
@@ -67,6 +72,8 @@ Drehmoment: 300 Nm
   * Prüfgegenstand PKW-Sonderrad 8Jx18H2 Typ 63 808
   * Hersteller R.O.D. Leichtmetallräder GmbH
   * Dokument: [Original](../assets/pdf/Teilegutachten_00-0018-A03-V02.pdf) / [Markiert](../assets/pdf/Teilegutachten_00-0018-A03-V02_530i_e39.pdf)
+
+[Bilder](./images.md#reifenfelgen-hersteller-rondell)
 
 ### Informationsquellen
 
@@ -124,6 +131,8 @@ Datum   | Material | Beschreibung
 * Audioanlage - Vermutung auf Fehlstsrom bei Heck-Kamera
 
 ### Schlüssel
+
+[Bilder](./images.md#schlssel)
 
 * Schlüssel: Notschlüssel ohne Fernbedienung OK
 * Schlüssel: Standardschlüssel ohne Fernbedienung OK
