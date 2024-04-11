@@ -17,8 +17,13 @@ Modell: 530i
 Typ: DT51 e39  
 HSN: 0005  
 TSN: 694  
-Erstzulassung: 27.10.2000  
-Motor: M54B30
+Erstzulassung: 27.10.2000
+
+Motor: [M54B30](https://de.wikipedia.org/wiki/BMW_M54)  
+Reihensechszylinder mit autom. Nockenwellenverstellung  
+Huberaum: 3,0 l (2979 cm3)  
+Leistung: 170 kW (231 PS)  
+Drehmoment: 300 Nm
 
 * 317 Orientblau Metallic
 * F4AT Stoff rips diagonal/anthrazit
@@ -98,7 +103,7 @@ Datum   | Material | Beschreibung
 2014-08 |  500 EUR | Scheinwerfer
 ...     |          | ... uvm.
 
-## Mängelliste
+## Gut zu wissen
 
 [zurück](../)
 
@@ -122,7 +127,7 @@ Datum   | Material | Beschreibung
 
 * Schlüssel: Notschlüssel ohne Fernbedienung OK
 * Schlüssel: Standardschlüssel ohne Fernbedienung OK
-* Schlüssel: Standardschlüssel mit Fernbedienung - Stsrten nicht möglich
+* Schlüssel: Standardschlüssel mit Fernbedienung - Starten nicht möglich
 * Schlüssel: Klappbarer Schlüssel mit Fernbedienung - Starten nicht möglich
 
 ### Weiteres
