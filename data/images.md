@@ -39,10 +39,10 @@ Robots: noindex,nofollow
 
 [zurück](../)
 
-![Innenraum Vorne Fahrertür](../assets/images/IMG_2211.jpeg)
-![Innenraum Vorne Fahrer](../assets/images/IMG_2209.jpeg)
-![Innenraum Vorne Beifahrer](../assets/images/IMG_2210.jpeg)
-![Innenraum Hinten](../assets/images/IMG_2208.jpeg)
+![Innenraum Vorne Fahrertür](../assets/images/IMG_2211.jpg)
+![Innenraum Vorne Fahrer](../assets/images/IMG_2209.jpg)
+![Innenraum Vorne Beifahrer](../assets/images/IMG_2210.jpg)
+![Innenraum Hinten](../assets/images/IMG_2208.jpg)
 
 ## Kofferraum
 
@@ -56,35 +56,35 @@ Robots: noindex,nofollow
 
 [zurück](../)
 
-![Schlüssel alle vier](../assets/images/IMG_2233.jpeg)
+![Schlüssel alle vier](../assets/images/IMG_2233.jpg)
 <!--
-![Schlüssel Not](../assets/images/IMG_2238.jpeg)
-![Schlüssel Portier](../assets/images/IMG_2237.jpeg)
-![Schlüssel mit Fernbedieung](../assets/images/IMG_2236.jpeg)
-![Schlüssel mit Fernbedienung Klappbar](../assets/images/IMG_2235.jpeg)
+![Schlüssel Not](../assets/images/IMG_2238.jpg)
+![Schlüssel Portier](../assets/images/IMG_2237.jpg)
+![Schlüssel mit Fernbedieung](../assets/images/IMG_2236.jpg)
+![Schlüssel mit Fernbedienung Klappbar](../assets/images/IMG_2235.jpg)
 -->
 
 ## Motor
 
 [zurück](../)
 
-![Motor Draufsicht](../assets/images/IMG_2213.jpeg)
-![Motor rechts](../assets/images/IMG_2214.jpeg)
-![Motor rechts vorne](../assets/images/IMG_2215.jpeg)
-![Motor frontal](../assets/images/IMG_2216.jpeg)
-![Motor lings vorne](../assets/images/IMG_2217.jpeg)
-![Motor links](../assets/images/IMG_2218.jpeg)
+![Motor Draufsicht](../assets/images/IMG_2213.jpg)
+![Motor rechts](../assets/images/IMG_2214.jpg)
+![Motor rechts vorne](../assets/images/IMG_2215.jpg)
+![Motor frontal](../assets/images/IMG_2216.jpg)
+![Motor lings vorne](../assets/images/IMG_2217.jpg)
+![Motor links](../assets/images/IMG_2218.jpg)
 
 ## Reifen/Felgen: Hersteller Dezent
 
 [zurück](../)
 
-![Reifendruckplakette](../assets/images/IMG_2212.jpeg)
+![Reifendruckplakette](../assets/images/IMG_2212.jpg)
 ![Reifen Dezent 4x](../assets/images/IMG_2240_43.jpg)
-![Reifen Dezent hinten links](../assets/images/IMG_2240.jpeg)
-![Reifen Dezent hingen rechts](../assets/images/IMG_2241.jpeg)
-![Reifen Dezent vorne rechts](../assets/images/IMG_2242.jpeg)
-![Reifen Dezent vorne links](../assets/images/IMG_2243.jpeg)
+![Reifen Dezent hinten links](../assets/images/IMG_2240.jpg)
+![Reifen Dezent hingen rechts](../assets/images/IMG_2241.jpg)
+![Reifen Dezent vorne rechts](../assets/images/IMG_2242.jpg)
+![Reifen Dezent vorne links](../assets/images/IMG_2243.jpg)
 
 ## Reifen/Felgen: Hersteller Rondell
 
