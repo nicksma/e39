@@ -26,6 +26,7 @@ Typ: DT51 e39
 HSN: 0005  
 TSN: 694  
 Erstzulassung: 27.10.2000  
+Letzte HU: 27.09.2022 (nächste HU fällig Sept. 2024)  
 [Bilder](./data/images.md#auen)
 
 ### Motor
