@@ -146,6 +146,10 @@ Datum   | Material | Beschreibung
 - Schlüssel: Standardschlüssel mit Fernbedienung - Starten nicht möglich
 - Schlüssel: Klappbarer Schlüssel mit Fernbedienung - Starten nicht möglich
 
-### Weiteres
+### Motorzustand
 
+- Motor läuft heiß. Mögliche Ursachen:
+  - Temperatursensor
+  - Wasserpumpe
+  - Zylinderkopfdichtung
 - Ölverbrauch 0,1 Liter auf 100 km (Devos2 5W30)
