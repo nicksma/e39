@@ -103,7 +103,7 @@ Datum   | Material | Beschreibung
 2022-09 |  187 EUR | Querlenker, Verbindungsstange
 2022-09 |  282 EUR | Stoßdämpfer neu
 2022-09 |  137 EUR | Bremsscheiben hinten neu
-2022-09 |  183 EUR | Zylinderkopfdichtung, Kurbelgehäuseentlüftung
+2022-09 |  183 EUR | Zylinderdeckeldichtung, Kurbelgehäuseentlüftung
 2022-09 |   57 EUR | Zündkerzen
 2020-07 |  100 EUR | Akku-Exide-PremiumEA1000
 2019-08 |   40 EUR | Inspektion (Luftfilter, Kraftstofffilter)
